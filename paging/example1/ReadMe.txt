@@ -1,0 +1,4 @@
+Retrofit
+Glide
+RecyclerView
+ViewModel

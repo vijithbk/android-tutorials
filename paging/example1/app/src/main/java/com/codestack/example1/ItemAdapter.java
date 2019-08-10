@@ -53,7 +53,7 @@ public class ItemAdapter extends PagedListAdapter<Item, ItemAdapter.ItemViewHold
         public boolean areContentsTheSame(Item oldItem, Item newItem) {
             return oldItem.equals(newItem);
         }
-    }
+    };
 
     class ItemViewHolder extends RecyclerView.ViewHolder {
         ImageView imageView;

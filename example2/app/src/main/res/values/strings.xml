@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a value</string>
+    <string name="button_label">Send message</string>
+    <string name="welcome_message">Welcome to message activity</string>
+    <string name="textview">TextView</string>
+</resources>

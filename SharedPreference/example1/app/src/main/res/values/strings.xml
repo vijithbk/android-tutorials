@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared preference examples</string>
+    <string name="shared_preferences">Examples below show different usage of Shared preference</string>
+    <string name="activity_level_sp">Activity Level</string>
+    <string name="application_level">Application Level</string>
+    <string name="using_gson">Using Gson</string>
+    <string name="generic">Generic</string>
+</resources>
